@@ -1,0 +1,19 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-title>Popover</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content>
+  <ion-item>
+    Mys id is: {{passedId}}
+  </ion-item>
+  
+<ion-item button color="danger" (click)="closePopover()">
+  <ion-icon slot="start" name="close"></ion-icon>
+  Close Popover
+</ion-item>
+
+
+</ion-content>
+
