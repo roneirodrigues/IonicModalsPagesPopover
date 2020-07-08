@@ -22,5 +22,6 @@ System:
    npm    : 6.14.5
    OS     : Windows 7
 # Commands
-npm install
-ionic serve
+1º npm install
+
+2º ionic serve
