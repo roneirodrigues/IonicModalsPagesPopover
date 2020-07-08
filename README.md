@@ -1,4 +1,4 @@
-# modalsPagesPopover
+# Ionic Modals Pages Popover
 Ionic Modals Pages Popover
 
 # Ionic Info
